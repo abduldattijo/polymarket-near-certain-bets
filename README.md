@@ -32,4 +32,6 @@ Polymarket keeps adding closed markets, so a new download gives different counts
 
 The data belongs to Polymarket and is not included. Polymarket's [Terms of Use](https://polymarket.com/tos) limit some uses of its data, including selling or redistributing it. Read them before reusing the data or the results commercially. Do not commit the downloaded files.
 
+The code is under the MIT licence (see `LICENSE`). The licence covers the code only, and not Polymarket's data.
+
 This is a measurement of past markets and is not financial advice.
